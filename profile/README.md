@@ -1,6 +1,6 @@
 
 # BKLTC 3 🌺RainForest
-始终保障我们持有目标设备的访问权限
+始终确保我们持有目标设备的访问权限
 
 ```
 BKLTaskController V3
