@@ -9,14 +9,20 @@ BKLTaskController V3
 版本代号: 🌺RainForest
 ```
 ```
-运行于系统底层，掌握着执行权力。
-安全与隐私兼并，轻量与扩展共存。
-诞生于严谨之中，神秘的管理系统。
+
+"安全与隐私兼并，轻量与扩展共存"
+
+Feature
+1. 集群化的设备管理
+2. 自动化部署
+3. 加密的通信和严格的身份验证
+4. 加载第三方扩展以灵活实现额外功能
+5. 轻量的代码规模
 ```
 
-## **项目列表**
+## **活跃的项目**
 ```
-BKLTC Server Version 3
+BKLTC Framework Version 3
 BKLTC 系列产品的网络服务框架
 
 最新版本: 3.01.1120 (dev)
@@ -24,14 +30,14 @@ BKLTC 系列产品的网络服务框架
 ```
 ```
 BKLTC Client For Windows
-Windows 下的设备执行器
+适用于 Windows 系统的设备执行器
 
 最新版本: 3.01.1120 (dev)
 稳定版本: 2.78.9370 (release)
 ```
 ```
-BKLTC Service
-CLIENT 的引导启动器
+BKLTC Windows Service
+Windows CLIENT 的引导启动器
 
 最新版本: None
 稳定版本: 2.78.0001 (release)
